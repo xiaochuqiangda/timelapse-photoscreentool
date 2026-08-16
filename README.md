@@ -1,7 +1,7 @@
 # 延时摄影筛图工具（LightningPicker）
 
 - 库里已有的压缩包为轻量包，不包含所需的Python库，需要提前安装环境
-- 懒人一键包请前往https://pan.baidu.com/s/1_pP3rcylSSfg7ZJy-yYiTg?pwd=se28 提取码: se28 自行下载
+- 懒人一键包请前往链接: https://pan.baidu.com/s/181sFvV6-XkKcZHhnXsjQLg?pwd=99br 自行下载
 
 基于 **Tauri + Python 子进程** 的闪电照片自动筛选应用。从延时摄影连拍中自动挑出拍到闪电的帧。
 
